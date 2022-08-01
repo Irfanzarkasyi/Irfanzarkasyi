@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Irfanzarkasyi
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about technology
+- 💞️ I’m looking to collaborate on web and business
 - 📫 How to reach me ...
 
 <!---
